@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "my-tutorials-f1fbb"
+  },
+  "targets": {
+    "my-tutorials-f1fbb": {
+      "hosting": {
+        "fancybutton": [
+          "fancybuttonproject"
+        ]
+      }
+    }
+  }
+}
